@@ -91,3 +91,5 @@ To avoid ongoing AWS costs, tear down all the created resources with:
 ```bash
 terraform destroy
 ```
+---
+## Author : **Ariba Khan**
